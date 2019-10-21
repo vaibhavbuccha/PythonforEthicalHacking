@@ -1,6 +1,7 @@
 import pyautogui
 import time
 
+
 def generateData(name):
     
 
