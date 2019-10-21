@@ -1,10 +1,11 @@
+#Header Files
 import pyautogui
 import time
 
 pyautogui.FAILSAFE = False
 
 def completeAction():
-    time.sleep(2)
+    time.sleep(2) # this function is used to sleep 2 seconds
 
 # Index Setup
 # pyautogui.hotkey('alt','tab')
